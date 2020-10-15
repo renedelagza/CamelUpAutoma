@@ -1,2 +1,2 @@
 # CamelUpAutoma
-An automa for Camel Up
+An Automa for Camel Up
